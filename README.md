@@ -33,3 +33,6 @@ pip install -r requirements.txt
   -o or --output: Output CSV file path (Default: rainfall_output.csv)   
   -v or --variable: Target NetCDF variable name (Optional)   
 
+> This would be helpful to the researchers and their laboratories. Kindly take it and enjoy your time.
+
+## Hence I have completed the tool successfully! 🫰😍
