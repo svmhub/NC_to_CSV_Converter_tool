@@ -23,8 +23,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-- Run directly from your terminal   
-    *python converter.py -i imdweb.nc -o rainfall_matrix.csv*
+- Run directly from your terminal
+
+    **python converter.py -i imdweb.nc -o rainfall_matrix.csv**
+  
 - Optional arguments:   
 
   -i or --input: Input NetCDF file path (Required)   
