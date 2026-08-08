@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 - Run directly from your terminal
 
-    **python converter.py -i imdweb.nc -o rainfall_matrix.csv**
+    **python converter.py -i input_file_name.nc -o output_file_name.csv**
   
 - Optional arguments:   
 
