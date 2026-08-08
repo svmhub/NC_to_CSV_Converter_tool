@@ -16,7 +16,7 @@ A lightweight Python utility designed to convert multi-dimensional spatial NetCD
 
 ```
 bash
-git clone [https://github.com/svmhub/NC_to_CSV_Coverter_Tools.git](https://github.com/svmhub/NC_to_CSV_Coverter_tools.git)
+git clone [https://github.com/svmhub/NC_to_CSV_Coverter_tool.git](https://github.com/svmhub/NC_to_CSV_Coverter_tool.git)
 cd YOUR_REPO_NAME
 pip install -r requirements.txt
 '''
