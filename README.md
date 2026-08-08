@@ -5,3 +5,18 @@ A scope to converts a multi-dimensional NetCDF file into a time-series CSV where
 ## Description
 
 A lightweight Python utility designed to convert multi-dimensional spatial NetCDF (`.nc`) weather datasets (such as IMD gridded data) into standard time-series CSV matrices.
+
+## Features
+- Automatically detects coordinates (`latitude`, `longitude`, `time`).
+- Automatically detects variable names (`rain`, `tp`, `precip`, etc.).
+- Converts 3D spatial grids into wide-format matrices where columns represent explicit `lat_lon` points.
+- Optimized using vectorized Pandas operations for maximum speed.
+
+## Installation
+
+```
+bash
+git clone [https://github.com/svmhub/NC_to_CSV_Coverter_Tools.git](https://github.com/svmhub/NC_to_CSV_Coverter_tools.git)
+cd YOUR_REPO_NAME
+pip install -r requirements.txt
+'''
