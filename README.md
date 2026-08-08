@@ -19,4 +19,14 @@ bash
 git clone [https://github.com/svmhub/NC_to_CSV_Coverter_tool.git](https://github.com/svmhub/NC_to_CSV_Coverter_tool.git)
 cd YOUR_REPO_NAME
 pip install -r requirements.txt
-'''
+```
+
+## Usage
+
+- Run directly from your terminal
+- Optional arguments:   
+
+  -i or --input: Input NetCDF file path (Required)
+  -o or --output: Output CSV file path (Default: rainfall_output.csv)
+  -v or --variable: Target NetCDF variable name (Optional)
+
