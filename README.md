@@ -26,7 +26,7 @@ pip install -r requirements.txt
 - Run directly from your terminal
 - Optional arguments:   
 
-  -i or --input: Input NetCDF file path (Required)
-  -o or --output: Output CSV file path (Default: rainfall_output.csv)
-  -v or --variable: Target NetCDF variable name (Optional)
+  -i or --input: Input NetCDF file path (Required)   
+  -o or --output: Output CSV file path (Default: rainfall_output.csv)   
+  -v or --variable: Target NetCDF variable name (Optional)   
 
